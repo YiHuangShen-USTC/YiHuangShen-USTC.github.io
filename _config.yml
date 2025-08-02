@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en_US.UTF-8"
 site_theme               : "default"
 title                    : "Yi-Huang Shen"
 title_separator          : "-"
