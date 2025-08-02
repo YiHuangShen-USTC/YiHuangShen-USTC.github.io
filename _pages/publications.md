@@ -42,8 +42,9 @@ author_profile: true
 </ol>
 
 ## Additional Research Notes
-* <a href="http://arxiv.org/abs/1404.2165">Monomial ideals with linear quotients and componentwise (support-)linearity</a>.  
-* <a href="http://arxiv.org/abs/1208.1822">Lexsegment ideals of Hilbert depth 1</a>.
+1. <a href="http://arxiv.org/abs/1404.2165">Monomial ideals with linear quotients and componentwise (support-)linearity</a>.  
+1. <a href="http://arxiv.org/abs/1208.1822">Lexsegment ideals of Hilbert depth 1</a>.
+{: reversed="reversed"}
 
 
 
