@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Mathematics,</b> <a href="http://www.purdue.edu/">Purdue University</a>, Aug 2009
+* Ph.D. in Mathematics, [Purdue University](http://www.purdue.edu/), Aug 2009
   * Dissertation: Monomial Curves, Gorenstein Ideals and Stanley Decompositions
-  * Advisor: Professor <a href="http://www.math.purdue.edu/~ulrich/">Bernd Ulrich</a>, Fellow of the American Mathematical Society
-* M.S. in Mathematics</b>, <a href="http://www.whu.edu.cn/">Wuhan University</a>, 2002
-* B.S. in Mathematics</b>, <a href="http://www.whu.edu.cn/">Wuhan University</a>, 1999
+  * Advisor: Professor [Bernd Ulrich](http://www.math.purdue.edu/~ulrich/), Fellow of the American Mathematical Society
+* M.S. in Mathematics, [Wuhan University](http://www.whu.edu.cn/), 2002
+* B.S. in Mathematics, [Wuhan University](http://www.whu.edu.cn/), 1999
 
 Work experience
 ======
