@@ -5,7 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Academic Talks
 * <a href="http://www.cim.nankai.edu.cn/2024/0116/c7185a535448/page.htm">International Workshop on Commutative Algebra and Related Topics</a>, Chern Institute of Mathematics, Nankai University, Tianjin, China, Sept 16-20, 2024.
 * Workshop on Algebra and its Applications, Changshu Institute of Technology, Jan 18, 2024.
 * <a href="https://sites.google.com/site/manolisctsakiris/seminar">Commutative Algebra Seminar in Beijing</a>, Academy of Mathematics and Systems Science, Nov 25, 2023.
