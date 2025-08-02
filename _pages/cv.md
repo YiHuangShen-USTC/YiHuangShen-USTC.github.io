@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resumé"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Mathematics,</b> <a href="http://www.purdue.edu/">Purdue University</a>, Aug 2009
+  * Dissertation: Monomial Curves, Gorenstein Ideals and Stanley Decompositions
+  * Advisor: Professor <a href="http://www.math.purdue.edu/~ulrich/">Bernd Ulrich</a>, Fellow of the American Mathematical Society
+* M.S. in Mathematics</b>, <a href="http://www.whu.edu.cn/">Wuhan University</a>, 2002
+* B.S. in Mathematics</b>, <a href="http://www.whu.edu.cn/">Wuhan University</a>, 1999
 
 Work experience
 ======
