@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
 * Ph.D. in Mathematics, [Purdue University](http://www.purdue.edu/), Aug 2009
   * Dissertation: Monomial Curves, Gorenstein Ideals and Stanley Decompositions
   * Advisor: Professor [Bernd Ulrich](http://www.math.purdue.edu/~ulrich/), Fellow of the American Mathematical Society
@@ -18,7 +17,6 @@ redirect_from:
 * B.S. in Mathematics, [Wuhan University](http://www.whu.edu.cn/), 1999
 
 ## Work experience
-======
 * [School of Mathematical Sciences](http://math.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/): 
   * Associate Professor, Jun 2016 - Now; 
   * Lecturer, Oct 2009 - Jun 2016. 
