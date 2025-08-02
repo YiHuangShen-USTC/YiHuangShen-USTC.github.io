@@ -28,7 +28,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hefei, Anhui, P.R. China"
   employer         : "University of Science and Technology of China"
-  uri              : "https://en.ustc.edu.cn/"
+  uri              : # "https://en.ustc.edu.cn/"
   email            : "yhshen@ustc.edu.cn" 
 
   # Academic websites
