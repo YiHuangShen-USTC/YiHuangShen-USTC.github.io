@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yi-Huang Shen"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : " " #"Short biography for the left-hand sidebar"
   location         : "Hefei, Anhui, P.R. China"
   employer         : "USTC"
   uri              : # "https://en.ustc.edu.cn/"
