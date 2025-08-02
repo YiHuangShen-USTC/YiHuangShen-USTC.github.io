@@ -47,4 +47,6 @@ author_profile: true
 * Spring 2007:  Introduction to Analysis, I 
 * Fall 2006:  Algebra and Trigonometry, I 
 
-
+## Miscellaneous
+* Author (with Yelong Zheng, Xiaoqun Chen and Yunhua Zhang) to [Study Guide For Linear Algebra And Analytic Geometry](files/LAAG.html). 
+* Author (with [Yi Ouyang](http://staff.ustc.edu.cn/~yiouyang/)) to [Algebra I: Basics of Algebra](files/daishuxuejichu.png).
