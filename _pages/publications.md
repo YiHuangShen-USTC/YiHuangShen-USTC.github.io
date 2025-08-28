@@ -11,7 +11,7 @@ author_profile: true
 
 ## Journal articles
 <ol reversed>
-<li><a href="https://arxiv.org/abs/2508.01903">Binomial edge rings associated to skew Ferrers diagrams</a> (with <a href="https://sites.psu.edu/kul20/">Kuei-Nuan Lin</a>), preprint.  </li>
+<li><a href="">Binomial edge rings associated to skew Ferrers diagrams</a> (with <a href="https://sites.psu.edu/kul20/">Kuei-Nuan Lin</a>), preprint.  </li>
 <li><a href="https://arxiv.org/abs/2408.01903">Blowup algebras of determinantal modules</a> (with <a href="https://sites.psu.edu/kul20/">Kuei-Nuan Lin</a>), preprint.  </li>
 <li><a href="https://arxiv.org/abs/2312.11807">Generalized binomial edge ideals of complete \(r\)-partite graphs</a> (with <a href="http://web.suda.edu.cn/zhuguangjun/">Guangjun Zhu</a>), preprint.</li>
 <li><a href="https://doi.org/10.4153/S0008439525100970">Regularity and multiplicity of Veronese type algebras</a> (with <a href="https://sites.psu.edu/kul20/">Kuei-Nuan Lin</a>), accepted to Canadian Mathematical Bulletin.</li>
