@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## University of Science and Technology of China 
+* Spring 2026: Mathematical Analysis (B2) (MATH1007) 
 * Fall 2025: Mathematical Analysis (B1) (MATH1006) 
 * Spring 2025: Mathematical Analysis (B2) (MATH1007) 
 * Fall 2024: Commutative Algebra (MATH5011)
