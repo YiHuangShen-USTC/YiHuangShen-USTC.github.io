@@ -12,8 +12,8 @@ author_profile: true
 ## Journal articles
 <ol reversed>
 <li><a href="http://arxiv.org/abs/2508.20364">Binomial edge rings associated to skew Ferrers diagrams</a> (with <a href="https://sites.psu.edu/kul20/">Kuei-Nuan Lin</a>), preprint.  </li>
-<li><a href="https://arxiv.org/abs/2408.01903">Blowup algebras of determinantal modules</a> (with <a href="https://sites.psu.edu/kul20/">Kuei-Nuan Lin</a>), preprint.  </li>
 <li><a href="https://arxiv.org/abs/2312.11807">Generalized binomial edge ideals of complete \(r\)-partite graphs</a> (with <a href="http://web.suda.edu.cn/zhuguangjun/">Guangjun Zhu</a>), preprint.</li>
+<li><a href="https://doi.org/10.1016/j.jalgebra.2026.02.033">Blowup algebras of determinantal modules</a> (with <a href="https://sites.psu.edu/kul20/">Kuei-Nuan Lin</a>), J. Algebra, <b>697</b> (2026), 632-659.  </li>
 <li><a href="https://doi.org/10.4153/S0008439525100970">Regularity and multiplicity of Veronese type algebras</a> (with <a href="https://sites.psu.edu/kul20/">Kuei-Nuan Lin</a>), Canadian Mathematical Bulletin, <b>69</b> (2026), 150-178.</li>
 <li><a href="https://doi.org/10.1090/proc/17249">Blowup Algebras of \(n\)-dimensional Ferrers Diagrams</a> (with <a href="https://sites.psu.edu/kul20/">Kuei-Nuan Lin</a>), Proc. Amer. Math. Soc., <b>153</b> (2025), 2269-2282.</li>
 <li><a href="https://doi.org/10.1016/j.jalgebra.2024.08.026">Generalized binomial edge ideals of bipartite graphs</a> (with <a href="http://web.suda.edu.cn/zhuguangjun/">Guangjun Zhu</a>), J. Algebra, <b>662</b> (2025), 167-213.</li>
